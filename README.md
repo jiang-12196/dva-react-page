@@ -1,6 +1,9 @@
 # dva-react-page
 a page project base on react and dva
-# use
+
+
+# usage
+```
 ---npm install
 ---npm start
-
+```
