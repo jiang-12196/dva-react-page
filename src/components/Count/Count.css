@@ -1,0 +1,17 @@
+.count {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100%;
+}
+
+.count > h2 {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.button >button {
+  width: 50px;
+  margin: 15px;
+}
